@@ -1,5 +1,5 @@
-# Welcome
-## To the NFTYtree repo
-### Have a pleasant day
+# Welcome...
+## .......to the NFTYtree repo
+### .........have a pleasant day
 
 
