@@ -13,19 +13,20 @@ Curious about the performance of the NFT gaming sector? We've done the work for 
 ****  
 #### Overall Market
   
-<link>
+**link here
+
 #### Axie infinity
   
-<link>
+**link here
 #### Decentraland
+  **link here
   
-<link>
 #### Chainganmes
   
-<link>
+**link here
 #### Sandbox
   
-<link>
+**link here
 ****  
 
 
