@@ -11,7 +11,7 @@ Trade/browse/invest in one of the fastest growing areas of cryptocurrency.
 > </br>
 > They can represent items such as photos, videos, audios etc. Here's a breakdown of the the last month's NFT sales by category according to non-fungible.com (2021-04-13):</br>
 > </br>
-> ![NFT Monthly Category Sales (USD) March-April 12th, 2021](1.11_nft_category_sales_USD_piechart.png)
+> ![NFT Monthly Category Sales (USD) March-April 12th, 2021](images/1.11_nft_category_sales_USD_piechart.png)
 > </br>
 > ![NFT Monthly Category Sales Transactions March-April 12th, 2021](images/1.12_nft_category_transactions_piechart.png)
 > </br>
