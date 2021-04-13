@@ -3,7 +3,7 @@ The NFT marketplace focused on the tokenised gaming arena.
 Your one stop shop for gaming tokens, collectibles and in game items.
 Trade/browse/invest in one of the fastest growing areas of cryptocurrency.
 ****
-
+​
 ## 1. What is an NFT? Why would anyone invest in them?
 > According to Google, Non-Fungible Token (NFT) can be defined as:</br>
 > </br>
@@ -18,9 +18,9 @@ Trade/browse/invest in one of the fastest growing areas of cryptocurrency.
 > As you can see, sporting NFTs account for a large number of transactions, but only a comparatively small amount of total revenue. This is a direct indicator that sporting ETFs are comparatively low-value and less premium, relative to NFTs such as Art, Collectibles etc.
 > </br>
 > </br>
-
+​
 ## 2. Are Gaming NFTs specifically a good investment?
-
+​
 ### 2.1 Building an NFT Market Index
 > Before we can answer the question ‘Why Gaming NFTs’, we need to answer the question ‘Why NFTs’.</br>
 > </br>
@@ -42,7 +42,7 @@ Trade/browse/invest in one of the fastest growing areas of cryptocurrency.
 > ![Index_returns](images//2.3_cumulative_returns_pseudo_index.png)
 > </br>
 > </br>
-
+​
 ### 2.2 Building a Gaming NFT Portfolio for Comparison with the Index
 > Next, we built a simple gaming NFT portfolio incorporating the token price history of five of the top performing gaming NFTs trading on the market. These included: $MANA, $CHAIN, $AXS, $SAND and $MEGA.</br>
 > </br>
@@ -72,9 +72,9 @@ Trade/browse/invest in one of the fastest growing areas of cryptocurrency.
 > As you can see, the correlations between some gaming NFTs are higher than others.
 > </br>
 > </br>
-
-
-
+​
+​
+​
 ## 3. How do gaming NFTs generate profit and how much can they make?
 > 
 > 
@@ -101,27 +101,33 @@ Trade/browse/invest in one of the fastest growing areas of cryptocurrency.
 > ![scaled_volume_vs_holders_vs_Price](images//3.6_scaled_volume_vs_holders_vs_Price.png) </br>
 > </br>
 > </br>
-
+​
 ## 4. Why are gaming NFTs becoming so popular?
 > 
 > 
 > ![chain_vs_index](images//4.2_chain_vs_index.png) </br>
+This chart shows the closing prices of Chain Games vs. the NFT market index which includes other NFT data types such as Art, Collectibes and Sport. 
+There is a massive jump in price in the middle of March which apparently represents Chaingames making their Fortnite announcement - which was that they had added the game to its platform.
+The Chain Games platform allows users to bet on each other's wins using cryptocurrency. As you can see there is a clear relationship between Chain Games closing prices and the market as a whole.
+​
 > </br> 
 > 
 > 
 > ![twitter_vs_btc](images//4.4_twitter_vs_btc.png) </br>
+The following chart shows the rise of Bitcoin prices with the other line showing the rise of Twitter followers. This was created using the community data from Coingecko's API gathered on Bitcoin. This is an important chart to display the rising popularity of Bitcoin and its effect on the price. A lot of the popularity can be explained by a look at public announcements made on Twitter or other news outlets. For example, when Elon Musk tweeted that his Electrical Car company, Tesla was now accepting bitcoin as payment, there was a jump in the price. 
 > </br> 
 > 
 > 
 > ![recent_chain_prices](images//4.5_recent_chain_prices.png) </br>
+This chart shows the recent prices for Chain Games. It is interesting to view that at the end of 2020, the price was pretty consistent. But we can see there was a massive jump after March of 2021 which continues to shoot up this month. The indication we get from this chart is that Chain Games as an NFT platform is having consistent successes. 
 > </br> 
 > 
 > 
 > ![chain_vs_index_price](images//4.11_chain_vs_index_price.png) </br>
+This chart shows how Chain Games is outperforming the market. As it is a platform that allows users to bet on their gameply using cryptocurrency, this performance demonstrates that people are becoming increasingly interested in the potentials of cryptocurrencies. 
 > </br> 
 > 
 > 
 > ![chain_vs_index_price_scaled](images//4.12_chain_vs_index_price_scaled.png) </br>
-
-> 
+This chart is scaled to further illustrate Chain Games performance in comparison to the market. 
 > 
