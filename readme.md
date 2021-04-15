@@ -96,15 +96,17 @@ It is also interesting to note the AXS token has seen a 1000% price increase sin
 > ![axies_revenue_composition](/Images/3.3_axies_revenue_composition.png) </br>
 > </br> 
 > 
+> The number of unique holders of Axies (which each have an associated Non-Fungible-Token) is found by asessing the number of unique Ethereum wallet addresses which have interacted with the game. That number has seen phenomenal growth in the last 6 months.
 > 
 > ![axies_unique_holders](/Images/3.4_axies_unique_holders.png) </br>
 > </br> 
 > 
-> 
+
+> In order to visualize overall growth it is usefull to plot several trend lines ont he same axis: 
 > ![cumulative_Transaction_volume_holders](/Images/3.5_cumulative_Transsaction_volume_holders.png) </br>
 > </br> 
 > 
-> 
+> Using the package 'SKLearn', we were able to scale the data and show multiple trend lines with vastly different scales on the same chart. Thus growth in users, revenue and token price can be obviously visualized.
 > ![scaled_volume_vs_holders_vs_Price](/Images/3.6_scaled_volume_vs_holders_vs_Price.png) </br>
 > </br>
 > </br>
