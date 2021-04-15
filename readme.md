@@ -77,11 +77,18 @@ Trade/browse/invest in one of the fastest growing areas of cryptocurrency.
 ​
 ## 3. How do gaming NFTs generate profit and how much can they make?
 > 
+> We’ve shown what an NFT is, how much growth the space is seeing and why we’re narrowing it down to the gaming arena, the following is a look into one specific project, NFT gaming project: “Axie Infinity”. 
 > 
+Axie Infinity is an Ethereum based blockchain game, loosely base on the world of Pokemon.
+There are multiple streams of revenue generated on the platform such as Sales/Ownership of land and Axies, Breeding of Axies (where users pay a breeding fee), Trading on a secondary market (where the platform takes a trading fee) and ultimately Battling Axie's where players can earn crypto and potentially spend it back into the game.
+Trading fees are of the most interest to us because as an NFT trade platform we would hope to capture some of this revenue.
+
+It is also interesting to note the AXS token has seen a 1000% price increase since it was launched approximately 6 months ago.
+
 > ![acies_price_vs_date](/Images/3.1_acies_price_vs_date.png) </br>
 > </br> 
 > 
-> 
+> The cumulative revenue collected was initially mostly from initial Land and Axie sales, however more recently the secondary marketplace fees collected have risen rapidly.
 > ![axies_revenue_vs_time](/Images/3.2_axies_revenue_vs_time.png) </br>
 > </br> 
 > 
